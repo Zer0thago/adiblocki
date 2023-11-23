@@ -47,3 +47,14 @@ adc3-launch.adcolony.com
 events3alt.adcolony.com
 wd.adcolony.com
 static.media.net
+samsung-com.112.2o7.net
+widgets.pinterest.com
+app.bugsnag.com
+api.bugsnag.com
+browser.sentry-cdn.com
+realtime.luckyorange.com
+tools.mouseflow.com
+cdn-test.mouseflow.com
+claritybt.freshmarketer.com
+fwtracks.freshmarketer.com
+events.hotjar.io
